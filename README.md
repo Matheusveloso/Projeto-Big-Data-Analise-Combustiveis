@@ -84,7 +84,6 @@ Nessa etapa foi realizado processos de agregações dos dados e desenvolvimento 
 ![image](https://github.com/user-attachments/assets/0eafee85-7888-4b82-a03a-e0988f37ff1e)
 
 4) A tabela 4 apresenta informações sobre as cinco cidades que apresentaram maior desvio padrão no valor de venda dos combustíveis no ano de 2022.
-
 ![image](https://github.com/user-attachments/assets/5f497ae1-e0ab-475f-b631-b7e35a36e65c)
 
 5) Municípios com maior valor de venda de combustíveis entre os anos de 2004 e 2022.
